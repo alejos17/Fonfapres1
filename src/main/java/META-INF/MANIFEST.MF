@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: fonfapres.fonfapres1.FonfapresApp
+
